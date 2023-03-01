@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/mainUI.jpg</file>
+        <file>res/MenuSceneStartButton.png</file>
+        <file>res/Title.png</file>
+        <file>myQSS.qss</file>
+        <file>res/input.jpg</file>
+        <file>res/icon.png</file>
+        <file>res/showUI.jpg</file>
+        <file>res/RepeaterBG.jpg</file>
+        <file>res/logol2.png</file>
+        <file>res/logol3.png</file>
+    </qresource>
+</RCC>

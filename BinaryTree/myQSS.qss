@@ -1,0 +1,32 @@
+QPushButton {
+    /* 前景色 */
+    color:red;
+
+    /* 背景色 */
+    background-color:red;
+
+    /* 边框风格 */
+    border-style:outset;
+
+    /* 边框宽度 */
+    border-width:2px;
+
+    /* 边框颜色 */
+    border-color:rgb(10,45,110);
+
+    /* 边框倒角 */
+    border-radius:10px;
+
+    /* 字体 */
+    font:bold 14px;
+
+    /* 控件最小宽度 */
+    min-width:100px;
+
+    /* 控件最小高度 */
+    min-height:20px;
+
+    /* 内边距 */
+    padding:4px;
+}
+
